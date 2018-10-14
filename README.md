@@ -1,5 +1,6 @@
 # Math Monster http://www.rikukukkaniemi.com/math-monster
 > A Vue.js project
+
 > Modified version on a project made in Vue.js course https://www.udemy.com/vuejs-2-the-complete-guide/
 
 ## Build Setup
